@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/gray" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@color/green_dazi_head"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <com.chesssystem.widget.CircleImageView
+            android:id="@+id/civ_dazi_face"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginLeft="25dp"
+            android:src="@drawable/avatar_default" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="bottom"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_dazi_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/normal_18sp" />
+
+                <ImageView
+                    android:id="@+id/iv_dazi_sex"
+                    android:layout_width="15dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_dazi_age"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/small_14sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/ll_dazi_invites"
+                    android:layout_width="wrap_content"
+                    android:layout_height="80dp"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/tv_dazi_invites"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/small_14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="我的邀约"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/small_14sp" />
+                    <LinearLayout 
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:orientation="horizontal">
+                    <TextView 
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="好评:"
+                        android:textSize="@dimen/small_12sp"
+                        android:textColor="@color/text_color_hongse_ff4318"/>
+                    <TextView 
+                        android:id="@+id/tv_dazi_haoping"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textSize="@dimen/small_12sp"
+                        android:textColor="@color/text_color_hongse_ff4318"/>
+                    <TextView 
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="个"
+                        android:textSize="@dimen/small_12sp"
+                        android:textColor="@color/text_color_hongse_ff4318"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="0.5sp"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="18px"
+                    android:layout_marginRight="18px"
+                    android:background="@color/white" />
+
+                <LinearLayout
+                    android:id="@+id/ll_dazi_yingyue"
+                    android:layout_width="wrap_content"
+                    android:layout_height="80dp"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/tv_dazi_yingyue"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/small_14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="我的应约"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/small_14sp" />
+                    <LinearLayout 
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:orientation="horizontal">
+                    <TextView 
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="中评:"
+                        android:textSize="@dimen/small_12sp"
+                        android:textColor="@color/yellow"/>
+                    <TextView 
+                        android:id="@+id/tv_dazi_zhongping"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textSize="@dimen/small_12sp"
+                        android:textColor="@color/yellow"/>
+                   <TextView 
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="个"
+                        android:textSize="@dimen/small_12sp"
+                        android:textColor="@color/yellow"/>
+                    </LinearLayout>
+                    
+                </LinearLayout>
+
+                <View
+                    android:layout_width="0.5sp"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="18px"
+                    android:layout_marginRight="18px"
+                    android:background="@color/white" />
+
+                <LinearLayout
+                    android:id="@+id/ll_dazi_record"
+                    android:layout_width="wrap_content"
+                    android:layout_height="80dp"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/tv_dazi_record"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/small_14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="搭子记录"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/small_14sp" />
+                    <LinearLayout 
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:orientation="horizontal">
+                   <TextView 
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="差评:"
+                        android:textSize="@dimen/small_12sp"
+                        android:textColor="@color/blue"/>
+                    <TextView 
+                        android:id="@+id/tv_dazi_chaping"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textSize="@dimen/small_12sp"
+                        android:textColor="@color/blue"/>
+                  <TextView 
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="个"
+                        android:textSize="@dimen/small_12sp"
+                        android:textColor="@color/blue"/>
+                    </LinearLayout>
+                    
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="4dp"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="共"
+            android:textColor="@color/text_color_shenhui_677582"
+            android:textSize="@dimen/small_14sp" />
+        <TextView
+            android:id="@+id/tv_dazi_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textColor="@color/green_dazi_head"
+            android:textSize="@dimen/small_14sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="个应约"
+            android:textColor="@color/text_color_shenhui_677582"
+            android:textSize="@dimen/small_14sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/gray" />
+
+</LinearLayout>

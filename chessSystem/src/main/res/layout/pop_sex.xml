@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parent"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_transparent">
+
+    <LinearLayout
+        android:id="@+id/ll_popup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#ffffff"
+        android:orientation="vertical" >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp">
+
+            <Button
+                android:id="@+id/item_popupwindows_confirm"
+                android:layout_width="55dp"
+                android:layout_height="35dp"
+                android:textColor="#585858"
+                android:textSize="18sp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/circle_transparent_black"
+                android:text="@string/confirm" />
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/view_girl"
+            android:layout_width="match_parent"
+            android:layout_height="0.4dp"
+            android:visibility="gone"
+            android:background="@color/text_color_heise_504f4f" />
+            <Button
+                android:id="@+id/item_popupwindows_girl"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:background="@drawable/bt_nobgd"
+                android:textColor="#585858"
+                android:textSize="18sp"
+                android:text="女" /> 
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.4dp"
+            android:background="@color/text_color_heise_504f4f" />
+
+        <Button
+            android:id="@+id/item_popupwindows_boy"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:background="@drawable/bt_nobgd"
+            android:textColor="#585858"
+            android:textSize="18sp"
+            android:text="男" />
+        <View
+            android:id="@+id/view_boy"
+            android:layout_width="match_parent"
+            android:layout_height="0.4dp"
+            android:visibility="gone"
+            android:background="@color/text_color_heise_504f4f" />
+        <View 
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@color/white"/>
+    </LinearLayout> 
+
+</RelativeLayout>

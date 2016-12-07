@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/activity_title" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:orientation="horizontal" >
+            <ListView
+                android:id="@+id/lv_business_shop_food_orderfoods_foodTypes"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:cacheColorHint="#00000000"
+                android:divider="@null"
+                android:fadingEdge="none"
+                android:fadingEdgeLength="0dp"
+                android:scrollbars="none" />
+            <View
+                android:layout_width="0.1dp"
+                android:layout_height="match_parent"
+                android:background="@color/gray2" />
+            <com.chesssystem.goods.PinnedHeaderListView
+                android:id="@+id/lv_business_shop_food_orderfoods_foods"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5"
+                android:cacheColorHint="#00000000"
+                android:divider="@null"
+                android:footerDividersEnabled="false"
+                android:headerDividersEnabled="false" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_shoppingcar_bg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" 
+            android:visibility="gone"
+            android:background="@drawable/bg_transparent">
+            <View
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:layout_height="0dp"
+                android:background="@drawable/bg_transparent" />
+            <TextView 
+                android:clickable="true"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="购物车"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:textColor="@color/text_color_shenhui_677582"
+                android:textSize="@dimen/normal_16sp"/>
+            <View 
+                android:layout_width="match_parent"
+                android:layout_height="0.2dp"
+                android:background="@color/gray2"/>
+            <ListView 
+                android:id="@+id/lv_shopppingcar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:listSelector="@color/white"
+                android:scrollbars="none"
+                android:background="@color/white">
+            </ListView>
+        </LinearLayout>
+    </FrameLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="55dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/text_color_heise_504f4f"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:id="@+id/ll_shoppingcar_bottom"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="3"
+                        android:background="@color/text_color_heise_504f4f"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal" >
+
+                        <ImageView
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_marginLeft="10dp"
+                            android:src="@drawable/shop" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:text="合计 ￥ "
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/normal_16sp" />
+
+                        <TextView
+                            android:id="@+id/tv_shoppingcar_price"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="0"
+                            android:textColor="@color/white"
+                            android:textSize="20sp" />
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/bt_goodsdetail_pay"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2"
+                        android:background="@color/text_color_huangse_ff8800"
+                        android:gravity="center"
+                        android:text="去结算"
+                        android:textColor="@color/white"
+                        android:visibility="gone"
+                        android:textSize="@dimen/large_22sp" />
+                </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@drawable/item_my_selector"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:id="@+id/iv_collection_image"
+            android:layout_width="80dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:scaleType="centerCrop"
+            android:src="@color/gray2" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/iv_collection_image"
+            android:layout_marginLeft="20dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_collection_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="好友汇棋牌会所"
+                style="@style/TextView"
+                android:maxEms="8"
+                android:textColor="@color/text_color_heise_504f4f"
+                android:textSize="@dimen/normal_18sp" />
+            <TextView
+                android:id="@+id/tv_collection_detail"
+                android:layout_marginTop="2dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="免费提供wifi,停车位..."
+                android:layout_marginRight="10dp"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:textColor="@color/text_color_qianhui_a3a4a4"
+                android:textSize="@dimen/small_14sp" />
+             <TextView 
+            	android:id="@+id/tv_collection_distance"
+            	android:layout_width="wrap_content"
+            	android:layout_height="wrap_content"
+            	android:text="200m"
+            	android:layout_marginTop="10dp"
+            	android:textColor="@color/text_color_qianhui_a3a4a4"
+            	android:textSize="@dimen/small_14sp"
+            	android:layout_marginRight="10dp"/>
+        </LinearLayout>
+        <ImageView 
+            android:id="@+id/tv_item_distance"
+            android:layout_width="25dp"
+            android:layout_height="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/collection_more"
+            android:layout_marginRight="10dp"/>
+    </RelativeLayout>

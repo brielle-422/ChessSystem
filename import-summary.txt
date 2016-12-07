@@ -1,0 +1,299 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From ChessSystem:
+* library\
+* library\.classpath
+* library\.project
+* library\.settings\
+* library\.settings\org.eclipse.jdt.core.prefs
+* library\AndroidManifest.xml
+* library\LICENSE
+* library\bin\
+* library\bin\AndroidManifest.xml
+* library\bin\R.txt
+* library\bin\classes\
+* library\bin\classes\com\
+* library\bin\classes\com\handmark\
+* library\bin\classes\com\handmark\pulltorefresh\
+* library\bin\classes\com\handmark\pulltorefresh\library\
+* library\bin\classes\com\handmark\pulltorefresh\library\BuildConfig.class
+* library\bin\classes\com\handmark\pulltorefresh\library\ILoadingLayout.class
+* library\bin\classes\com\handmark\pulltorefresh\library\IPullToRefresh.class
+* library\bin\classes\com\handmark\pulltorefresh\library\LoadingLayoutProxy.class
+* library\bin\classes\com\handmark\pulltorefresh\library\OverscrollHelper.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshAdapterViewBase.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshBase$1.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshBase$2.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshBase$3.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshBase$AnimationStyle.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshBase$Mode.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshBase$OnLastItemVisibleListener.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshBase$OnPullEventListener.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshBase$OnRefreshListener.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshBase$OnRefreshListener2.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshBase$OnSmoothScrollFinishedListener.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshBase$Orientation.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshBase$SmoothScrollRunnable.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshBase$State.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshBase.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshExpandableListView$InternalExpandableListView.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshExpandableListView$InternalExpandableListViewSDK9.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshExpandableListView.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshGridView$InternalGridView.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshGridView$InternalGridViewSDK9.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshGridView.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshHorizontalScrollView$InternalHorizontalScrollViewSDK9.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshHorizontalScrollView.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshListView$InternalListView.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshListView$InternalListViewSDK9.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshListView.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshScrollView$InternalScrollViewSDK9.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshScrollView.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshWebView$1.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshWebView$2.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshWebView$InternalWebViewSDK9.class
+* library\bin\classes\com\handmark\pulltorefresh\library\PullToRefreshWebView.class
+* library\bin\classes\com\handmark\pulltorefresh\library\R$anim.class
+* library\bin\classes\com\handmark\pulltorefresh\library\R$attr.class
+* library\bin\classes\com\handmark\pulltorefresh\library\R$dimen.class
+* library\bin\classes\com\handmark\pulltorefresh\library\R$drawable.class
+* library\bin\classes\com\handmark\pulltorefresh\library\R$id.class
+* library\bin\classes\com\handmark\pulltorefresh\library\R$layout.class
+* library\bin\classes\com\handmark\pulltorefresh\library\R$string.class
+* library\bin\classes\com\handmark\pulltorefresh\library\R$styleable.class
+* library\bin\classes\com\handmark\pulltorefresh\library\R.class
+* library\bin\classes\com\handmark\pulltorefresh\library\extras\
+* library\bin\classes\com\handmark\pulltorefresh\library\extras\PullToRefreshWebView2$JsValueCallback.class
+* library\bin\classes\com\handmark\pulltorefresh\library\extras\PullToRefreshWebView2.class
+* library\bin\classes\com\handmark\pulltorefresh\library\extras\SoundPullEventListener.class
+* library\bin\classes\com\handmark\pulltorefresh\library\internal\
+* library\bin\classes\com\handmark\pulltorefresh\library\internal\EmptyViewMethodAccessor.class
+* library\bin\classes\com\handmark\pulltorefresh\library\internal\FlipLoadingLayout.class
+* library\bin\classes\com\handmark\pulltorefresh\library\internal\IndicatorLayout.class
+* library\bin\classes\com\handmark\pulltorefresh\library\internal\LoadingLayout.class
+* library\bin\classes\com\handmark\pulltorefresh\library\internal\RotateLoadingLayout.class
+* library\bin\classes\com\handmark\pulltorefresh\library\internal\Utils.class
+* library\bin\classes\com\handmark\pulltorefresh\library\internal\ViewCompat$SDK11.class
+* library\bin\classes\com\handmark\pulltorefresh\library\internal\ViewCompat$SDK16.class
+* library\bin\classes\com\handmark\pulltorefresh\library\internal\ViewCompat.class
+* library\bin\library.jar
+* library\bin\library.jar.r208
+* library\bin\library.jar.r216
+* library\bin\res\
+* library\bin\res\crunch\
+* library\bin\res\crunch\drawable-hdpi\
+* library\bin\res\crunch\drawable-hdpi\default_ptr_flip.png
+* library\bin\res\crunch\drawable-hdpi\default_ptr_rotate.png
+* library\bin\res\crunch\drawable-hdpi\indicator_arrow.png
+* library\bin\res\crunch\drawable-mdpi\
+* library\bin\res\crunch\drawable-mdpi\default_ptr_flip.png
+* library\bin\res\crunch\drawable-mdpi\default_ptr_rotate.png
+* library\bin\res\crunch\drawable-mdpi\indicator_arrow.png
+* library\bin\res\crunch\drawable-xhdpi\
+* library\bin\res\crunch\drawable-xhdpi\default_ptr_flip.png
+* library\bin\res\crunch\drawable-xhdpi\default_ptr_rotate.png
+* library\bin\res\crunch\drawable-xhdpi\indicator_arrow.png
+* library\gen\
+* library\gen\com\
+* library\gen\com\handmark\
+* library\gen\com\handmark\pulltorefresh\
+* library\gen\com\handmark\pulltorefresh\library\
+* library\gen\com\handmark\pulltorefresh\library\BuildConfig.java
+* library\gen\com\handmark\pulltorefresh\library\R.java
+* library\pom.xml
+* library\project.properties
+* library\res\
+* library\res\anim\
+* library\res\anim\slide_in_from_bottom.xml
+* library\res\anim\slide_in_from_top.xml
+* library\res\anim\slide_out_to_bottom.xml
+* library\res\anim\slide_out_to_top.xml
+* library\res\drawable-hdpi\
+* library\res\drawable-hdpi\default_ptr_flip.png
+* library\res\drawable-hdpi\default_ptr_rotate.png
+* library\res\drawable-hdpi\indicator_arrow.png
+* library\res\drawable-mdpi\
+* library\res\drawable-mdpi\default_ptr_flip.png
+* library\res\drawable-mdpi\default_ptr_rotate.png
+* library\res\drawable-mdpi\indicator_arrow.png
+* library\res\drawable-xhdpi\
+* library\res\drawable-xhdpi\default_ptr_flip.png
+* library\res\drawable-xhdpi\default_ptr_rotate.png
+* library\res\drawable-xhdpi\indicator_arrow.png
+* library\res\drawable\
+* library\res\drawable\indicator_bg_bottom.xml
+* library\res\drawable\indicator_bg_top.xml
+* library\res\layout\
+* library\res\layout\pull_to_refresh_header_horizontal.xml
+* library\res\layout\pull_to_refresh_header_vertical.xml
+* library\res\values-ar\
+* library\res\values-ar\pull_refresh_strings.xml
+* library\res\values-cs\
+* library\res\values-cs\pull_refresh_strings.xml
+* library\res\values-de\
+* library\res\values-de\pull_refresh_strings.xml
+* library\res\values-es\
+* library\res\values-es\pull_refresh_strings.xml
+* library\res\values-fi\
+* library\res\values-fi\pull_refresh_strings.xml
+* library\res\values-fr\
+* library\res\values-fr\pull_refresh_strings.xml
+* library\res\values-he\
+* library\res\values-he\pull_refresh_strings.xml
+* library\res\values-it\
+* library\res\values-it\pull_refresh_strings.xml
+* library\res\values-iw\
+* library\res\values-iw\pull_refresh_strings.xml
+* library\res\values-ja\
+* library\res\values-ja\pull_refresh_strings.xml
+* library\res\values-ko\
+* library\res\values-ko\pull_refresh_strings.xml
+* library\res\values-nl\
+* library\res\values-nl\pull_refresh_strings.xml
+* library\res\values-pl\
+* library\res\values-pl\pull_refresh_strings.xml
+* library\res\values-pt-rBR\
+* library\res\values-pt-rBR\pull_refresh_strings.xml
+* library\res\values-pt\
+* library\res\values-pt\pull_refresh_strings.xml
+* library\res\values-ro\
+* library\res\values-ro\pull_refresh_strings.xml
+* library\res\values-ru\
+* library\res\values-ru\pull_refresh_strings.xml
+* library\res\values-zh\
+* library\res\values-zh\pull_refresh_strings.xml
+* library\res\values\
+* library\res\values\attrs.xml
+* library\res\values\dimens.xml
+* library\res\values\ids.xml
+* library\res\values\pull_refresh_strings.xml
+* library\src\
+* library\src\com\
+* library\src\com\handmark\
+* library\src\com\handmark\pulltorefresh\
+* library\src\com\handmark\pulltorefresh\library\
+* library\src\com\handmark\pulltorefresh\library\ILoadingLayout.java
+* library\src\com\handmark\pulltorefresh\library\IPullToRefresh.java
+* library\src\com\handmark\pulltorefresh\library\LoadingLayoutProxy.java
+* library\src\com\handmark\pulltorefresh\library\OverscrollHelper.java
+* library\src\com\handmark\pulltorefresh\library\PullToRefreshAdapterViewBase.java
+* library\src\com\handmark\pulltorefresh\library\PullToRefreshBase.java
+* library\src\com\handmark\pulltorefresh\library\PullToRefreshExpandableListView.java
+* library\src\com\handmark\pulltorefresh\library\PullToRefreshGridView.java
+* library\src\com\handmark\pulltorefresh\library\PullToRefreshHorizontalScrollView.java
+* library\src\com\handmark\pulltorefresh\library\PullToRefreshListView.java
+* library\src\com\handmark\pulltorefresh\library\PullToRefreshScrollView.java
+* library\src\com\handmark\pulltorefresh\library\PullToRefreshWebView.java
+* library\src\com\handmark\pulltorefresh\library\extras\
+* library\src\com\handmark\pulltorefresh\library\extras\PullToRefreshWebView2.java
+* library\src\com\handmark\pulltorefresh\library\extras\SoundPullEventListener.java
+* library\src\com\handmark\pulltorefresh\library\internal\
+* library\src\com\handmark\pulltorefresh\library\internal\EmptyViewMethodAccessor.java
+* library\src\com\handmark\pulltorefresh\library\internal\FlipLoadingLayout.java
+* library\src\com\handmark\pulltorefresh\library\internal\IndicatorLayout.java
+* library\src\com\handmark\pulltorefresh\library\internal\LoadingLayout.java
+* library\src\com\handmark\pulltorefresh\library\internal\RotateLoadingLayout.java
+* library\src\com\handmark\pulltorefresh\library\internal\Utils.java
+* library\src\com\handmark\pulltorefresh\library\internal\ViewCompat.java
+* proguard-project.txt
+From library:
+* LICENSE
+* pom.xml
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In library:
+* AndroidManifest.xml => library\src\main\AndroidManifest.xml
+* assets\ => library\src\main\assets
+* res\ => library\src\main\res\
+* src\ => library\src\main\java\
+In ChessSystem:
+* AndroidManifest.xml => chessSystem\src\main\AndroidManifest.xml
+* assets\ => chessSystem\src\main\assets\
+* libs\alipaySdk-20160516.jar => chessSystem\libs\alipaySdk-20160516.jar
+* libs\arm64-v8a\libBaiduMapSDK_base_v4_0_0.so => chessSystem\src\main\jniLibs\arm64-v8a\libBaiduMapSDK_base_v4_0_0.so
+* libs\arm64-v8a\libBaiduMapSDK_cloud_v4_0_0.so => chessSystem\src\main\jniLibs\arm64-v8a\libBaiduMapSDK_cloud_v4_0_0.so
+* libs\arm64-v8a\libBaiduMapSDK_map_v4_0_0.so => chessSystem\src\main\jniLibs\arm64-v8a\libBaiduMapSDK_map_v4_0_0.so
+* libs\arm64-v8a\libBaiduMapSDK_search_v4_0_0.so => chessSystem\src\main\jniLibs\arm64-v8a\libBaiduMapSDK_search_v4_0_0.so
+* libs\arm64-v8a\libBaiduMapSDK_util_v4_0_0.so => chessSystem\src\main\jniLibs\arm64-v8a\libBaiduMapSDK_util_v4_0_0.so
+* libs\arm64-v8a\liblocSDK6a.so => chessSystem\src\main\jniLibs\arm64-v8a\liblocSDK6a.so
+* libs\armeabi-v7a\libBaiduMapSDK_base_v4_0_0.so => chessSystem\src\main\jniLibs\armeabi-v7a\libBaiduMapSDK_base_v4_0_0.so
+* libs\armeabi-v7a\libBaiduMapSDK_cloud_v4_0_0.so => chessSystem\src\main\jniLibs\armeabi-v7a\libBaiduMapSDK_cloud_v4_0_0.so
+* libs\armeabi-v7a\libBaiduMapSDK_map_v4_0_0.so => chessSystem\src\main\jniLibs\armeabi-v7a\libBaiduMapSDK_map_v4_0_0.so
+* libs\armeabi-v7a\libBaiduMapSDK_search_v4_0_0.so => chessSystem\src\main\jniLibs\armeabi-v7a\libBaiduMapSDK_search_v4_0_0.so
+* libs\armeabi-v7a\libBaiduMapSDK_util_v4_0_0.so => chessSystem\src\main\jniLibs\armeabi-v7a\libBaiduMapSDK_util_v4_0_0.so
+* libs\armeabi-v7a\liblocSDK6a.so => chessSystem\src\main\jniLibs\armeabi-v7a\liblocSDK6a.so
+* libs\armeabi\libBaiduMapSDK_base_v4_0_0.so => chessSystem\src\main\jniLibs\armeabi\libBaiduMapSDK_base_v4_0_0.so
+* libs\armeabi\libBaiduMapSDK_cloud_v4_0_0.so => chessSystem\src\main\jniLibs\armeabi\libBaiduMapSDK_cloud_v4_0_0.so
+* libs\armeabi\libBaiduMapSDK_map_v4_0_0.so => chessSystem\src\main\jniLibs\armeabi\libBaiduMapSDK_map_v4_0_0.so
+* libs\armeabi\libBaiduMapSDK_search_v4_0_0.so => chessSystem\src\main\jniLibs\armeabi\libBaiduMapSDK_search_v4_0_0.so
+* libs\armeabi\libBaiduMapSDK_util_v4_0_0.so => chessSystem\src\main\jniLibs\armeabi\libBaiduMapSDK_util_v4_0_0.so
+* libs\armeabi\liblocSDK6a.so => chessSystem\src\main\jniLibs\armeabi\liblocSDK6a.so
+* libs\BaiduLBS_Android.jar => chessSystem\libs\BaiduLBS_Android.jar
+* libs\glide-3.7.0.jar => chessSystem\libs\glide-3.7.0.jar
+* libs\libammsdk.jar => chessSystem\libs\libammsdk.jar
+* libs\pinyin4j-2.5.0.jar => chessSystem\libs\pinyin4j-2.5.0.jar
+* libs\universal-image-loader-1.9.1.jar => chessSystem\libs\universal-image-loader-1.9.1.jar
+* libs\volley.jar => chessSystem\libs\volley.jar
+* libs\x86\libBaiduMapSDK_base_v4_0_0.so => chessSystem\src\main\jniLibs\x86\libBaiduMapSDK_base_v4_0_0.so
+* libs\x86\libBaiduMapSDK_cloud_v4_0_0.so => chessSystem\src\main\jniLibs\x86\libBaiduMapSDK_cloud_v4_0_0.so
+* libs\x86\libBaiduMapSDK_map_v4_0_0.so => chessSystem\src\main\jniLibs\x86\libBaiduMapSDK_map_v4_0_0.so
+* libs\x86\libBaiduMapSDK_search_v4_0_0.so => chessSystem\src\main\jniLibs\x86\libBaiduMapSDK_search_v4_0_0.so
+* libs\x86\libBaiduMapSDK_util_v4_0_0.so => chessSystem\src\main\jniLibs\x86\libBaiduMapSDK_util_v4_0_0.so
+* libs\x86\liblocSDK6a.so => chessSystem\src\main\jniLibs\x86\liblocSDK6a.so
+* libs\x86_64\libBaiduMapSDK_base_v4_0_0.so => chessSystem\src\main\jniLibs\x86_64\libBaiduMapSDK_base_v4_0_0.so
+* libs\x86_64\libBaiduMapSDK_cloud_v4_0_0.so => chessSystem\src\main\jniLibs\x86_64\libBaiduMapSDK_cloud_v4_0_0.so
+* libs\x86_64\libBaiduMapSDK_map_v4_0_0.so => chessSystem\src\main\jniLibs\x86_64\libBaiduMapSDK_map_v4_0_0.so
+* libs\x86_64\libBaiduMapSDK_search_v4_0_0.so => chessSystem\src\main\jniLibs\x86_64\libBaiduMapSDK_search_v4_0_0.so
+* libs\x86_64\libBaiduMapSDK_util_v4_0_0.so => chessSystem\src\main\jniLibs\x86_64\libBaiduMapSDK_util_v4_0_0.so
+* libs\x86_64\liblocSDK6a.so => chessSystem\src\main\jniLibs\x86_64\liblocSDK6a.so
+* libs\xUtils-2.6.14.jar => chessSystem\libs\xUtils-2.6.14.jar
+* lint.xml => chessSystem\lint.xml
+* res\ => chessSystem\src\main\res\
+* src\ => chessSystem\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

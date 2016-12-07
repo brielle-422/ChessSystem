@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/rl_storeName" 
+        layout="@layout/item_order_name" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp" >
+
+        <LinearLayout
+            android:id="@+id/ll_comment_star"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:orientation="horizontal" >
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_comment_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:text="2015-5-24"
+            android:textColor="@color/text_color_shenhui_677582"
+            android:textSize="@dimen/small_14sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_comment_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" />
+        <LinearLayout
+            android:id="@+id/ll_comment_reply"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@color/gray" 
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:padding="5dp"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/businessReply" 
+                android:textColor="@color/text_color_heise_504f4f"
+                android:textSize="@dimen/small_12sp" />
+             <TextView
+                android:id="@+id/tv_comment_reply"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:text="地方类似的激发你圣诞节富婆按时交付怕啥地方地方类似的激发你圣诞节富婆按时交付怕啥地方地方类似的激发你圣诞节富婆按时交付怕啥地方地方类似的激发你圣诞节富婆按时交付怕啥地方地方类似的激发你圣诞节富婆按时交付怕啥地方"
+                android:textColor="@color/text_color_heise_504f4f"
+                android:textSize="@dimen/small_12sp" />
+        </LinearLayout>
+      <GridView
+        android:id="@+id/gv_comment_image"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_comment_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:listSelector="@color/transparent"
+        android:numColumns="3"
+        android:paddingLeft="10dp"
+        android:scrollbars="none"
+        android:layout_marginBottom="20dp">
+    </GridView>
+
+</LinearLayout>

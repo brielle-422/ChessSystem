@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="@drawable/item_my_selector">
+        <ImageView
+            android:id="@+id/image_popular"
+            android:layout_width="80dp"
+            android:layout_height="70dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:src="@color/gray2" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"
+            android:gravity="right"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_popular_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="好友汇棋牌会所"
+                android:textColor="@color/text_color_heise_504f4f"
+                android:textSize="@dimen/normal_18sp" />
+
+            <LinearLayout
+                android:id="@+id/ll_popular_star"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_popular_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="人均消费200"
+                android:textColor="@color/text_color_heise_504f4f"
+                android:textSize="@dimen/small_10sp" />
+
+            <TextView
+                android:id="@+id/tv_popular_distance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="距离>300M"
+                android:textColor="@color/text_color_heise_504f4f"
+                android:textSize="@dimen/small_12sp" />
+        </LinearLayout>
+    </RelativeLayout>

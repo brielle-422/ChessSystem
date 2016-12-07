@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+ 
+<!--     <RelativeLayout -->
+<!--         android:id="@+id/rl_hot" -->
+<!--         android:layout_width="match_parent" -->
+<!--         android:layout_height="90dp" -->
+<!--         android:background="@drawable/item_my_selector"> -->
+<!--         <ImageView -->
+<!--             android:id="@+id/image_popular" -->
+<!--             android:layout_width="80dp" -->
+<!--             android:layout_height="70dp" -->
+<!--             android:layout_centerVertical="true" -->
+<!--             android:layout_marginLeft="10dp" -->
+<!--             android:src="@color/gray2" /> -->
+
+<!--         <LinearLayout -->
+<!--             android:layout_width="wrap_content" -->
+<!--             android:layout_height="70dp" -->
+<!--             android:layout_alignParentRight="true" -->
+<!--             android:layout_marginRight="10dp" -->
+<!--             android:layout_centerVertical="true" -->
+<!--             android:gravity="right" -->
+<!--             android:orientation="vertical" > -->
+
+<!--             <TextView -->
+<!--                 android:id="@+id/tv_popular_name" -->
+<!--                 android:layout_width="wrap_content" -->
+<!--                 android:layout_height="wrap_content" -->
+<!--                 android:text="好友汇棋牌会所" -->
+<!--                 android:textColor="@color/text_color_heise_504f4f" -->
+<!--                 android:textSize="@dimen/normal_18sp" /> -->
+
+<!--             <LinearLayout -->
+<!--                 android:id="@+id/ll_popular_star" -->
+<!--                 android:layout_width="wrap_content" -->
+<!--                 android:layout_height="wrap_content" -->
+<!--                 android:orientation="horizontal" > -->
+
+<!--                 <ImageView -->
+<!--                     android:layout_width="15dp" -->
+<!--                     android:layout_height="15dp" -->
+<!--                     android:src="@drawable/favorate_black" /> -->
+
+<!--                 <ImageView -->
+<!--                     android:layout_width="15dp" -->
+<!--                     android:layout_height="15dp" -->
+<!--                     android:src="@drawable/favorate_black" /> -->
+
+<!--                 <ImageView -->
+<!--                     android:layout_width="15dp" -->
+<!--                     android:layout_height="15dp" -->
+<!--                     android:src="@drawable/favorate_black" /> -->
+
+<!--                 <ImageView -->
+<!--                     android:layout_width="15dp" -->
+<!--                     android:layout_height="15dp" -->
+<!--                     android:src="@drawable/favorate_black" /> -->
+
+<!--                 <ImageView -->
+<!--                     android:layout_width="15dp" -->
+<!--                     android:layout_height="15dp" -->
+<!--                     android:src="@drawable/favorate_black" /> -->
+<!--             </LinearLayout> -->
+
+<!--             <TextView -->
+<!--                 android:id="@+id/tv_popular_price" -->
+<!--                 android:layout_width="wrap_content" -->
+<!--                 android:layout_height="wrap_content" -->
+<!--                 android:text="人均消费200" -->
+<!--                 android:textColor="@color/text_color_heise_504f4f" -->
+<!--                 android:textSize="@dimen/small_10sp" /> -->
+
+<!--             <TextView -->
+<!--                 android:id="@+id/tv_popular_distance" -->
+<!--                 android:layout_width="wrap_content" -->
+<!--                 android:layout_height="wrap_content" -->
+<!--                 android:text="距离>300M" -->
+<!--                 android:textColor="@color/text_color_heise_504f4f" -->
+<!--                 android:textSize="@dimen/small_12sp" /> -->
+<!--         </LinearLayout> -->
+<!--     </RelativeLayout> -->
+    <ListView
+        android:id="@+id/lv_popular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:listSelector="@drawable/item_my_selector">
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/ll_nearby"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="1dp"
+        android:background="@color/white"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/local_press" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/nearby_shopping_mall"
+            android:textColor="@color/text_color_huangse_ff8800"
+            android:textSize="@dimen/normal_16sp" />
+    </LinearLayout>
+
+</LinearLayout>

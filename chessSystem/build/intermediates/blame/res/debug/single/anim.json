@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\anim\\activity_translate_in.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\anim\\activity_translate_in.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\exploded-aar\\ChessSystem\\library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\exploded-aar\\ChessSystem\\library\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\exploded-aar\\ChessSystem\\library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\exploded-aar\\ChessSystem\\library\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    }
+]

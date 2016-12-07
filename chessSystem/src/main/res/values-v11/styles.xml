@@ -1,0 +1,52 @@
+<resources>
+
+    <!--
+        Base application theme for API 11+. This theme completely replaces
+        AppBaseTheme from res/values/styles.xml on API 11+ devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style>
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="TextView">
+        <item name="android:lines">1</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <!-- 密码输入框 -->
+    <style name="EditView_password">
+        <item name="android:lines">1</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:inputType">textPassword</item>
+    </style>
+    <!-- 账号输入框 -->
+    <style name="EditView_account">
+        <item name="android:lines">1</item>
+        <item name="android:maxLength">11</item>
+        <item name="android:paddingLeft">5dp</item>
+        <!-- <item name="android:numeric">integer</item> -->
+    </style>
+    <!-- 普通输入框 -->
+    <style name="EditView_normal">
+        <item name="android:lines">1</item>
+        <item name="android:paddingLeft">5dp</item>
+    </style>
+
+    <style name="styleName" parent="@style/TextView">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="roomRatingBar_yellow" parent="@android:attr/ratingBarStyleSmall">
+        <item name="android:progressDrawable">@drawable/ratingbar_yellow</item>
+    </style>
+
+    <style name="roomRatingBar_black" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/ratingbar_black</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:maxHeight">48dip</item>
+    </style>
+
+</resources>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    android:orientation="vertical" >
+
+    <include layout="@layout/activity_title" />
+<!--     <com.chesssystem.banner.ImageCycleView -->
+<!--         android:id="@+id/icv_metchants_banner" -->
+<!--         android:layout_width="match_parent" -->
+<!--         android:layout_height="130dp" > -->
+<!--     </com.chesssystem.banner.ImageCycleView> -->
+	<ImageView 
+	    android:id="@+id/icv_metchants_banner"
+	    android:layout_width="match_parent"
+	    android:layout_height="130dp"
+	    />
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="50dp"
+	    android:background="@color/white">
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/local_default" />
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="距您约"
+            android:textColor="@color/text_color_heise_504f4f"
+            android:textSize="@dimen/small_14sp" />
+        <TextView
+            android:id="@+id/tv_metchants_distance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color_heise_504f4f"
+            android:textSize="@dimen/small_14sp" />
+
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="12dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/text_color_heise_504f4f" />
+
+        <TextView
+            android:id="@+id/tv_metchants_local"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/TextView"
+            android:textColor="@color/text_color_heise_504f4f"
+            android:textSize="@dimen/small_14sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_metchants_map" 
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginRight="10dp">
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="查看地图"
+            android:textSize="@dimen/small_12sp"
+            android:textColor="@color/text_color_shenhui_677582"/>
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/right_black" />
+    </LinearLayout>
+    </LinearLayout>
+    
+    <FrameLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <include 
+            android:id="@+id/title_offer"
+            layout="@layout/title_offer"/>
+        <include 
+            android:id="@+id/title_goods"
+            layout="@layout/title_goods"
+            android:visibility="gone"/>
+        <include 
+            android:id="@+id/title_comment"
+            layout="@layout/title_comment"
+            android:visibility="gone"/>
+    </FrameLayout>
+    <View 
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/gray"/>
+    
+    <com.handmark.pulltorefresh.library.PullToRefreshListView  
+        android:id="@+id/lv_metchants_comment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:listSelector="@drawable/item_my_selector">
+    </com.handmark.pulltorefresh.library.PullToRefreshListView >
+
+</LinearLayout>

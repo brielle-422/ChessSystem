@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\android_workspace\ChessSystem\chessSystem\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\android_workspace\ChessSystem\chessSystem\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_01bb684cff43d7f2ca71b1d2d548db010fab492e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_workspace\ChessSystem\chessSystem\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="E:\android_workspace\ChessSystem\chessSystem\build\intermediates\transforms\dex\debug\folders\1000\2\volley_6e8fa6e18f2fc0086e8410f41b58b8fbc4e8c9d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_workspace\ChessSystem\chessSystem\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="E:\android_workspace\ChessSystem\chessSystem\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_ad07243bfa69b147b41dda57f7ffb912623f8327\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_workspace\ChessSystem\chessSystem\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="E:\android_workspace\ChessSystem\chessSystem\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.1_7819da8bddf6a64d152b8233a4143e2ac82102b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\eclipse\adt-bundle-windows-x86-20131030\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\android_workspace\ChessSystem\chessSystem\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_ac8d88aa450af50d8aa9a1a05a4cd0dbe502b3d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_workspace\ChessSystem\chessSystem\libs\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\android_workspace\ChessSystem\chessSystem\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.7.0_1ccf4c6b27de91fa2526459cdbb7e4b17a5af5a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_workspace\ChessSystem\chessSystem\libs\alipaySdk-20160516.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6dbd15e12806634fb809af9b565d1cf22dca9d2c">
+        <dex dex="E:\android_workspace\ChessSystem\chessSystem\build\intermediates\transforms\dex\debug\folders\1000\2\alipaySdk-20160516_270bb2dbb0488274ed562ae073ae686706d479fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_workspace\ChessSystem\chessSystem\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e3a40bad4dfebf8db2488b86015d57d89473dcc">
+        <dex dex="E:\android_workspace\ChessSystem\chessSystem\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c04311479a53fdc5d56b9b92701f2fd087f81f47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_workspace\ChessSystem\chessSystem\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b388715870a8bf5248abe7f1ea5742368ed876bd">
+        <dex dex="E:\android_workspace\ChessSystem\chessSystem\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_96a132727af35af0883f703b2914bc89a410d87e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_workspace\ChessSystem\chessSystem\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="E:\android_workspace\ChessSystem\chessSystem\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_728fb79fe162affc1193e1014a7da29c28cfae66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_workspace\ChessSystem\chessSystem\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bed22b3be9d7edd4dfc591c0719d7b47bc3594ca">
+        <dex dex="E:\android_workspace\ChessSystem\chessSystem\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_de7d713fc610de335ad8838a65ec628d26b9c328\classes.dex" />
+    </item>
+
+</items>

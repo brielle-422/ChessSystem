@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="EditView_account">
+        <item name="android:lines">1</item>
+        <item name="android:maxLength">11</item>
+        <item name="android:paddingLeft">5dp</item>
+        <!-- <item name="android:numeric">integer</item> -->
+    </style>
+    <style name="EditView_normal">
+        <item name="android:lines">1</item>
+        <item name="android:paddingLeft">5dp</item>
+    </style>
+    <style name="EditView_password">
+        <item name="android:lines">1</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:inputType">textPassword</item>
+    </style>
+    <style name="TextView">
+        <item name="android:lines">1</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="roomRatingBar_black" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/ratingbar_black</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:maxHeight">48dip</item>
+    </style>
+    <style name="roomRatingBar_yellow" parent="@android:attr/ratingBarStyleSmall">
+        <item name="android:progressDrawable">@drawable/ratingbar_yellow</item>
+    </style>
+    <style name="styleName" parent="@style/TextView">
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>

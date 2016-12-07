@@ -1,0 +1,130 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.chesssystem"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- SD卡读取权限，用户写入离线定位数据 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 访问精确位置的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 改变WIFI网络状态的权限 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!-- 读写存储卡的权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 读取电话状态的权限 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 访问网络状态 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 外置存储存取权限 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <!-- 添加可以向外拨打电话的权限 -->
+    <uses-permission android:name="android.permission.CALL_PHONE"></uses-permission>
+
+    <meta-data
+        android:name="com.baidu.lbsapi.API_KEY"
+        android:value="fdIn4qOFHmiGDhAisd1N73K2OXck2tYH" />
+
+    <application
+        android:name="com.chesssystem.NimApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon_image"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light.NoTitleBar">
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="XSwq21XmzBrSoIOzd2KIDVOY20iL6VIe" />
+
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote"></service>
+
+        <activity
+            android:name="com.chesssystem.ui.setting.WelcomeActivity"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen"></activity>
+        <activity
+            android:name="com.chesssystem.MainActivity"
+            android:windowSoftInputMode="adjustPan|stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.chesssystem.ui.dazi.DaziDetailActivity"></activity>
+        <activity
+            android:name="com.chesssystem.ui.BusinessActivity"
+            android:windowSoftInputMode="adjustPan|stateHidden"></activity>
+        <activity
+            android:name="com.chesssystem.ui.dazi.InviteActivity"
+            android:windowSoftInputMode="adjustPan|stateHidden"></activity>
+        <activity android:name="com.chesssystem.ui.dazi.DaziActivity"></activity>
+        <activity android:name="com.chesssystem.ui.setting.RegisterActivity"></activity>
+        <activity android:name="com.chesssystem.ui.setting.LoginActivity"></activity>
+        <activity android:name="com.chesssystem.ui.setting.ReviseActivity"></activity>
+        <activity android:name="com.chesssystem.ui.MerchantsActivity"></activity>
+        <activity android:name="com.chesssystem.ui.GoodsDetailActivity"></activity>
+        <activity android:name="com.chesssystem.album.SelectPhotoActivity"></activity>
+        <activity
+            android:name="com.chesssystem.ui.order.SubmitOrderActivity"
+            android:windowSoftInputMode="adjustPan|stateHidden"></activity>
+        <activity android:name="com.chesssystem.ui.comment.CommentPublishActivity"></activity>
+        <activity android:name="com.chesssystem.goods.FoodActivity"></activity>
+        <activity android:name="com.chesssystem.map.MapActivity"></activity>
+        <activity android:name="com.chesssystem.ui.comment.CommentAllActivity"></activity>
+        <activity android:name="com.chesssystem.ui.setting.SettingActivity"></activity>
+        <activity android:name="com.chesssystem.ui.dazi.MyInviteActivity"></activity>
+        <activity android:name="com.chesssystem.ui.dazi.RecordActivity"></activity>
+        <activity android:name="com.chesssystem.ui.CollectionActivity"></activity>
+        <activity android:name="com.chesssystem.ui.order.OrderActivity"></activity>
+        <activity android:name="com.chesssystem.ui.setting.NameSettingActivity"></activity>
+        <activity android:name="com.chesssystem.ui.comment.CommentMyActivity"></activity>
+        <activity android:name="com.chesssystem.ui.order.RefundActivity"></activity>
+        <activity
+            android:name="com.chesssystem.map.CityChoiceActivity"
+            android:windowSoftInputMode="adjustPan|stateHidden"></activity>
+        <activity android:name="com.chesssystem.ui.order.OrderDetailActivity"></activity>
+        <activity android:name="com.chesssystem.album.previewActivity"></activity>
+        <activity
+            android:name="com.chesssystem.ui.SearchActivity"
+            android:windowSoftInputMode="adjustPan"></activity>
+        <activity android:name="com.chesssystem.alipay.PayDemoActivity"></activity>
+        <activity android:name="com.chesssystem.ui.order.RefundDetailActivity"></activity>
+        <activity
+            android:name="com.chesssystem.ui.H5MerchantsJoinActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind"></activity>
+        <activity
+            android:name="com.chesssystem.alipay.H5PayDemoActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind"></activity>
+        <activity
+            android:name="com.chesssystem.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="wx71c535e1837c6bdf" /> <!-- 需修改 -->
+            </intent-filter>
+        </activity>
+        <!-- alipay sdk begin -->
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation|screenSize"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden"></activity>
+    </application>
+
+</manifest>

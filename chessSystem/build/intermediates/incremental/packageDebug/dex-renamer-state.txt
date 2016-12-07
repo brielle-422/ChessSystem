@@ -1,0 +1,7 @@
+#Wed Dec 07 15:27:12 CST 2016
+base.0=E\:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c04311479a53fdc5d56b9b92701f2fd087f81f47
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_de7d713fc610de335ad8838a65ec628d26b9c328\\classes.dex
+base.1=E\:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_de7d713fc610de335ad8838a65ec628d26b9c328
+file.0=E\:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c04311479a53fdc5d56b9b92701f2fd087f81f47\\classes.dex

@@ -1,0 +1,196 @@
+[
+    {
+        "outputFile": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1078,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 760
+                },
+                "from": {
+                    "file": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1359,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 765,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1014
+                },
+                "from": {
+                    "file": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1152
+                },
+                "from": {
+                    "file": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1157,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1428
+                },
+                "from": {
+                    "file": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1812,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 2087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1433,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1604
+                },
+                "from": {
+                    "file": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1631,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 1804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1609,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1721
+                },
+                "from": {
+                    "file": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1509,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 1623
+                    }
+                }
+            }
+        ]
+    }
+]

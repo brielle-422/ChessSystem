@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    android:orientation="vertical" >
+
+    <include layout="@layout/activity_title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/white"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="时间"
+                    android:textColor="@color/text_color_shenhui_677582"
+                    android:textSize="@dimen/normal_16sp" />
+
+                <TextView
+                    android:id="@+id/tv_invite_picktime"
+                    style="@style/EditView_normal"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/circle_gray_bg"
+                    android:gravity="center_vertical"
+                    android:textSize="@dimen/normal_16sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/white"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="地点"
+                    android:textColor="@color/text_color_shenhui_677582"
+                    android:textSize="@dimen/normal_16sp" />
+
+                <EditText
+                    android:id="@+id/edt_invite_local"
+                    style="@style/EditView_normal"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:maxLength="50"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/circle_gray_bg"
+                    android:textSize="@dimen/normal_16sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/white"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="人数"
+                    android:textColor="@color/text_color_shenhui_677582"
+                    android:textSize="@dimen/normal_16sp" />
+
+                <EditText
+                    android:id="@+id/edt_invite_number"
+                    style="@style/EditView_normal"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:maxLength="8"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/circle_gray_bg"
+                    android:numeric="integer"
+                    android:textSize="@dimen/normal_16sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/white"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="内容"
+                    android:textColor="@color/text_color_shenhui_677582"
+                    android:textSize="@dimen/normal_16sp" />
+
+                <EditText
+                    android:id="@+id/edt_invite_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="20dp"
+                    android:gravity="top"
+                    android:background="@drawable/circle_gray_bg"
+                    android:maxLength="100"
+                    android:paddingTop="5dp"
+                    android:paddingLeft="5dp"
+                    android:textSize="@dimen/normal_16sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/white"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="联系方式"
+                    android:textColor="@color/text_color_shenhui_677582"
+                    android:textSize="@dimen/normal_16sp" />
+
+                <EditText
+                    android:id="@+id/edt_invite_contact"
+                    style="@style/EditView_normal"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/circle_gray_bg"
+                    android:numeric="integer"
+                    android:maxLength="20"
+                    android:hint="如:电话、微信、QQ等;只有邀约成功后对方才能看到您的联系方式"
+                    android:lines="1"
+                    android:ellipsize="end"
+                    android:textSize="@dimen/normal_16sp" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/bt_invite"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/circle_green_bg"
+                android:text="发起邀约"
+                android:textColor="@color/white"
+                android:textSize="@dimen/large_22sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

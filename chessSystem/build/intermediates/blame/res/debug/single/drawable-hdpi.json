@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\find.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\find.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\image_add.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\image_add.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\my_press.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\my_press.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\my_default1.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\my_default1.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left_blue.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\left_blue.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\order_press1.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\order_press1.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refund_icon_center.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\refund_icon_center.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\more.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\more.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\my_default.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\my_default.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\right_black.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\right_black.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refund_icon_right.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\refund_icon_right.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\local_default.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\local_default.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\triangle.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\triangle.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_default1.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\main_default1.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\yingyue.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\yingyue.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\page_indicator_focused.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\page_indicator_focused.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\repair.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\repair.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\collection_more.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\collection_more.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_demo_title_bg.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\msp_demo_title_bg.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shop.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\shop.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\my_comment.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\my_comment.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\choose_item_right.9.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\choose_item_right.9.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\boy.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\boy.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\my_press1.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\my_press1.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\local_press.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\local_press.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\choosebar_line.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\choosebar_line.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\triangle_top.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\triangle_top.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zhifubao.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\zhifubao.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\page_indicator_unfocused.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\page_indicator_unfocused.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\order_default1.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\order_default1.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\goods.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\goods.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weixin.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\weixin.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wifi.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\wifi.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\telephone.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\telephone.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\favorate_default.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\favorate_default.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\avatar_default.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\avatar_default.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\my_order.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\my_order.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\order_press.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\order_press.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkbox_press.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\checkbox_press.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_icon.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\msp_icon.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_image.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\icon_image.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\comment_face.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\comment_face.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eeh.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\eeh.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\heart.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\heart.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\emotionstore_progresscancelbtn.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\business.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\business.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\boy_face.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\boy_face.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\choosearea_bg_left.9.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\choosearea_bg_left.9.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eat.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\eat.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\down.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\down.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\yellow_heart.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\yellow_heart.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\park.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\park.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\favorate_press.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\favorate_press.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\my_dazi.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\my_dazi.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_default.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\main_default.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_press.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\main_press.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_demo_title.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\msp_demo_title.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zan.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\zan.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dazi.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\dazi.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_press1.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\main_press1.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\none_face.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\none_face.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rediobt_normal.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\rediobt_normal.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkbox_normal.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\map_left.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\map_left.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rediobt_press.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\rediobt_press.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_transparent.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\bg_transparent.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\order_default.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\order_default.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\reduce.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\reduce.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\favorate_black.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\favorate_black.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shopping_mall.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\shopping_mall.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\my_refund.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\my_refund.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\girl.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\girl.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refund_icon_left.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable-hdpi\\refund_icon_left.png"
+    }
+]

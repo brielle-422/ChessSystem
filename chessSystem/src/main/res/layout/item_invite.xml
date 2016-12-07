@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="130dp"
+    android:background="@drawable/item_my_selector"
+    android:descendantFocusability="blocksDescendants"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="时间："
+                android:textColor="@color/text_color_heise_504f4f"
+                android:textSize="@dimen/small_14sp" />
+
+            <TextView
+                android:id="@+id/tv_dazi_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5月13日下午2:00"
+                android:textColor="@color/text_color_heise_504f4f"
+                android:textSize="@dimen/small_14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="地点："
+                android:textColor="@color/text_color_heise_504f4f"
+                android:textSize="@dimen/small_14sp" />
+
+            <TextView
+                android:id="@+id/tv_dazi_local"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="仓山万达"
+                android:textColor="@color/text_color_heise_504f4f"
+                android:textSize="@dimen/small_14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="人数："
+                android:textColor="@color/text_color_heise_504f4f"
+                android:textSize="@dimen/small_14sp" />
+
+            <TextView
+                android:id="@+id/tv_dazi_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3"
+                android:textColor="@color/text_color_heise_504f4f"
+                android:textSize="@dimen/small_14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="内容："
+                android:textColor="@color/text_color_heise_504f4f"
+                android:textSize="@dimen/small_14sp" />
+
+            <TextView
+                android:id="@+id/tv_dazi_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:lines="1"
+                android:text="组团斗地主"
+                android:textColor="@color/text_color_heise_504f4f"
+                android:textSize="@dimen/small_14sp" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_alignParentRight="true"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tv_invite_createtime" 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2周前"
+            android:textColor="@color/text_color_shenhui_677582"
+            android:textSize="@dimen/small_14sp"/>
+        <ImageView 
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_gravity="right"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/right_black" />
+    </LinearLayout>
+
+</RelativeLayout>

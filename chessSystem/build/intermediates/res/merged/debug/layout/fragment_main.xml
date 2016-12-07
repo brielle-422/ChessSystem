@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    android:orientation="vertical" >
+
+    <include 
+        layout="@layout/title_main"/>
+    <com.chesssystem.banner.ImageCycleView 
+	    android:id="@+id/icv_main_banner"
+        android:layout_width="match_parent"
+        android:layout_height="130dp">
+	</com.chesssystem.banner.ImageCycleView>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/white" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center" >
+
+                <LinearLayout
+                    android:id="@+id/ll_business"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/item_my_selector"
+                    android:orientation="vertical" >
+
+                    <com.chesssystem.widget.CircleImageView
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:src="@drawable/business" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="@string/business"
+                        android:textColor="@color/text_color_heise_504f4f"
+                        android:textSize="@dimen/small_14sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center" >
+
+                <LinearLayout
+                    android:id="@+id/ll_shop"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/item_my_selector"
+                    android:orientation="vertical" >
+
+                    <com.chesssystem.widget.CircleImageView
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:src="@drawable/shopping_mall" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="@string/shopping_mall"
+                        android:textColor="@color/text_color_heise_504f4f"
+                        android:textSize="@dimen/small_14sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical" >
+
+            <LinearLayout
+                android:id="@+id/ll_dazi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/item_my_selector"
+                android:orientation="vertical" >
+
+                <com.chesssystem.widget.CircleImageView
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:src="@drawable/dazi" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@string/dazi"
+                    android:textColor="@color/text_color_heise_504f4f"
+                    android:textSize="@dimen/small_14sp" />
+            </LinearLayout>
+        </RelativeLayout>
+    </FrameLayout>
+    <View 
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/gray"/>
+    <FrameLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+       <LinearLayout
+        android:id="@+id/ll_recommend"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="@color/white"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/zan" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/popularity_recommend"
+            android:textColor="@color/text_color_heise_504f4f"
+            android:textSize="@dimen/normal_16sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_nearby_new"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="@color/white"
+        android:gravity="center_vertical" 
+        android:visibility="gone">
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/local_press" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/nearby_shopping_mall"
+            android:textColor="@color/text_color_huangse_ff8800"
+            android:textSize="@dimen/normal_16sp" />
+    </LinearLayout>
+    </FrameLayout>
+    <View 
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray"/>
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView 
+        android:id="@+id/lv_mall"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </com.handmark.pulltorefresh.library.PullToRefreshListView>
+
+</LinearLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/gray">
+     <include 
+        layout="@layout/activity_title"/>
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="2dp"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="共"
+            android:textColor="@color/text_color_shenhui_677582"
+            android:textSize="@dimen/small_14sp" />
+        <TextView
+            android:id="@+id/tv_record_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textColor="@color/green_dazi_head"
+            android:textSize="@dimen/small_14sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="个搭子记录"
+            android:textColor="@color/text_color_shenhui_677582"
+            android:textSize="@dimen/small_14sp" />
+    </LinearLayout>
+    <com.handmark.pulltorefresh.library.PullToRefreshListView 
+        android:id="@+id/lv_record"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:dividerHeight="2dp"
+        android:divider="@color/gray"
+        android:listSelector="@color/gray2">
+    </com.handmark.pulltorefresh.library.PullToRefreshListView>
+    
+
+</LinearLayout>

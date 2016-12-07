@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#01000000</color>
+    <color name="text_color_shenhui_677582">#677582</color>
+    <color name="text_color_qianhui_a3a4a4">#a3a4a4</color>
+    <color name="text_color_heise_504f4f">#4B4C4D</color>
+    <color name="text_color_hongse_ff4318">#ff4318</color>
+    <color name="text_color_huangse_ff8800">#ff8800</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#F0F0F0</color>
+    <color name="main_green">#25A6A6</color>
+    <color name="gray2">#D3D3D3</color>
+    <color name="green_light">#00CCCC</color>
+    <color name="green_dazi_head">#2DBCBC</color>
+    <color name="green_dark">#008B8B</color>
+    <color name="navpage">#FFE1E8EB</color>
+    
+    <color name="orange">#CC6600</color>
+    <color name="pink">#FFE6E6</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="red">#D80000</color>
+    <color name="black">#000000</color>
+     <color name="common_orange_color">#ff601e</color>
+    <color name="common_orange_pressed_color">#ea4500</color>
+    <color name="common_white_color">#ffffff</color>
+    <color name="common_dark_grey_text_color">#7c7c7c</color>
+    <color name="common_light_grey_text_color">#969696</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+    <color name="orange_text">#F78A00</color>
+    <color name="choose_eara_item_press_color">#f4f4f4</color>
+</resources>

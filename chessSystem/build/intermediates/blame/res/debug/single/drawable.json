@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_left_transparent_bg.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\circle_left_transparent_bg.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\select_btn_yellow.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\select_btn_yellow.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_yellow.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\ratingbar_yellow.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_transparent_black.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\circle_transparent_black.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\exploded-aar\\ChessSystem\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_white_bg.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\circle_white_bg.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\edt_join.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\edt_join.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_green_bg.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\circle_green_bg.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_transparent_yellow.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\circle_transparent_yellow.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_gray_bg.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\circle_gray_bg.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_yellow_bg.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\circle_yellow_bg.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\exploded-aar\\ChessSystem\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\select_btn_green.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\select_btn_green.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\image_selected.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\image_selected.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\pinyin_bg.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\pinyin_bg.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_right_green_bg.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\circle_right_green_bg.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_select_btn_selector.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\photo_select_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\angle_transparent_green.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\angle_transparent_green.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_button_yellow.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\circle_button_yellow.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_right_gray_bg.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\circle_right_gray_bg.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\item_my_selector.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\item_my_selector.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingbar_black.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\ratingbar_black.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\select_btn_white.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\select_btn_white.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_transparent_green.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\circle_transparent_green.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_button_gray.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\circle_button_gray.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_swipemenu.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\drawable\\icon_swipemenu.xml"
+    }
+]

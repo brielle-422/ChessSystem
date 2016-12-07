@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_submit.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_order_submit.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_pop_business.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_pop_business.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_select.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_photo_select.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_comment_my.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_comment_my.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_city.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_city.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\image_select_dirlist.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\image_select_dirlist.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_image.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_city.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_city.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\title_main.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\title_main.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\pop_sex.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\pop_sex.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\fragment_order.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_invite.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\title_offer.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\title_offer.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_dir.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_list_dir.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\head_metchants.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\head_metchants.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\pop_picktime.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\pop_picktime.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myinvite.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_myinvite.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_main.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_main.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_comment.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_business.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_business.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_refund.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_refund.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_name.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_order_name.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\pop_comment.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\pop_comment.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\view_banner_content.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\view_banner_content.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title_white.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_title_white.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_revise.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_revise.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_comment_image.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_comment_image.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_invite.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_invite.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\choose_item.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\choose_item.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_shoppingcar.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_shoppingcar.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\pop_business_tab.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\pop_business_tab.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_submit.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_order_submit.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\title_comment.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\title_comment.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\pop_join.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\pop_join.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_refund.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_refund.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_grid.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_grid.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\pay_external.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\pay_external.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_goods_detail.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_goods_detail.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_doublelistview_left.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_doublelistview_left.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_collection.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_collection.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_refund_detail.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_refund_detail.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\head_dazi.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\head_dazi.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment_publish.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_comment_publish.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment_all.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_comment_all.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dazi.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_dazi.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_room.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_room.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\layout_goods_choice.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\layout_goods_choice.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_dazi_user.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_dazi_user.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\cancel_button.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\cancel_button.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dazidetail.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_dazidetail.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_preview.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_preview.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\header_doublelistview.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\header_doublelistview.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_dazi.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_dazi.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collection.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_collection.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_order.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_order.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\exploded-aar\\ChessSystem\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\fragment_my.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\head_dazi_detail.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\head_dazi_detail.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment_detail.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_comment_detail.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\title_goods.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\title_goods.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_popular.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_popular.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\header_select_photo.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\header_select_photo.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_record.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_doublelistview_right.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_doublelistview_right.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\head_main.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\head_main.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\exploded-aar\\ChessSystem\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_metchants.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_metchants.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_record.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_record.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\pay_main.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\pay_main.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment_my.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_comment_my.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\item_goods.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\item_goods.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\pop_shop.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\pop_shop.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\pop_photo.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\pop_photo.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_name.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_setting_name.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_detail.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_order_detail.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\head_business.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\head_business.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\activity_goods.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\activity_goods.xml"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\layout\\pay_result.xml",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\src\\main\\res\\layout\\pay_result.xml"
+    }
+]

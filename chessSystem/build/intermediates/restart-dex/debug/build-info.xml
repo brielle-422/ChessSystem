@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="22861897219589"
+    token="-510054361666450430"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="4070" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1449" />
+    <task
+        name="verifier"
+        duration="1293" />
+
+    <artifact
+        location="E:\android_workspace\ChessSystem\chessSystem\build\outputs\apk\chessSystem-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="22861897219589"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\android_workspace\ChessSystem\chessSystem\build\outputs\apk\chessSystem-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

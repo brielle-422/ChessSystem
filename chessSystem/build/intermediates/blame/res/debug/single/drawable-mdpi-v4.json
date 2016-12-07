@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\exploded-aar\\ChessSystem\\library\\unspecified\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\exploded-aar\\ChessSystem\\library\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\android_workspace\\ChessSystem\\chessSystem\\build\\intermediates\\exploded-aar\\ChessSystem\\library\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    }
+]

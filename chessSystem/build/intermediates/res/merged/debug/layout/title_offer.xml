@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="1dp"
+        android:background="@color/white" >
+
+        <ImageView
+            android:id="@+id/iv_more"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/more" />
+        <LinearLayout 
+            android:id="@+id/ll_wifi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iv_more"
+            android:orientation="horizontal"
+            android:layout_marginRight="15dp"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:visibility="gone">
+           <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/wifi" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:text="WIFI"
+            android:textColor="@color/text_color_heise_504f4f"
+            android:textSize="@dimen/small_12sp" />
+        </LinearLayout>
+
+
+		<LinearLayout 
+            android:id="@+id/ll_park"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/ll_wifi"
+            android:layout_marginRight="15dp"
+            android:orientation="horizontal"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:visibility="gone">
+		  <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/park" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:text="停车"
+            android:textColor="@color/text_color_heise_504f4f"
+            android:textSize="@dimen/small_12sp" />
+		</LinearLayout>
+		<LinearLayout 
+            android:id="@+id/ll_eat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/ll_park"
+            android:orientation="horizontal"
+            android:layout_marginRight="15dp"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:visibility="gone">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/eat" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:text="小吃"
+            android:textColor="@color/text_color_heise_504f4f"
+            android:textSize="@dimen/small_12sp" />
+        </LinearLayout>
+        <ImageView
+            android:id="@+id/iv_telephone"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_alignParentRight="true"
+			android:layout_marginRight="12dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/telephone" />
+
+        
+    </RelativeLayout>
